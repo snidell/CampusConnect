@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-9f0292ff019b5d503504f1322bd7eb548dd2d631.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-48b49e767b9ada83a1cd4fdc6e1c5e9fc85811c3.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-825989613d3077936297c4e2e1929d9ff60b4243.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-ddea0dde51870b349040999845c8245eb3a16740.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.8/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e724073d032731be77fad0f993e2970fb4429e3a">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-7e751702fe276a059ef9f55f343d64969f17974e.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-7f72b33ba4270d182732bedbe4bb036a81306fa4.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-bc3d97396c811157bf5c474f8266b5748da953f1.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5ceab24da593c6d5154355c5625214cff0ca4d2d.jar" />
+    </item>
+    <item
+        jar="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/scottMAC/Google Drive/SchoolWork/MOBI/CampusConnect/app/build/intermediates/pre-dexed/debug/classes-f65ec1d3390c8ae761aa8e6c85119fbc858b5f91.jar" />
+    </item>
+
+</items>

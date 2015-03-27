@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right">
+
+        <Button
+            style="@style/editProfileButton"
+            android:layout_height="wrap_content"
+            android:text="Discard"
+            android:id="@+id/discard"/>
+
+        <Button
+            style="@style/editProfileButton"
+            android:layout_height="wrap_content"
+            android:text="Done"
+            android:id="@+id/done" />
+    </LinearLayout>
+
+    <!-- This is the fragment container -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/edit_profile_container">
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15sp"
+            android:id="@+id/name"
+            android:layout_gravity="center_horizontal"
+            android:hint="Name" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15sp"
+            android:inputType="phone"
+            android:hint="Phone number"
+            android:id="@+id/phone"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:layout_margin="15sp"
+            android:id="@+id/email"
+            android:layout_gravity="center_horizontal"
+            android:hint="Email@email.com" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:hint="Major"
+            android:layout_margin="15sp"
+            android:id="@+id/major"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description"
+            android:layout_margin="10sp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Description" />
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
