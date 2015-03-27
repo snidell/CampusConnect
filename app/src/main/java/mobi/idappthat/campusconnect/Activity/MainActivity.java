@@ -24,7 +24,6 @@ import mobi.idappthat.campusconnect.R;
 
 //  hi made a test edit!
 
-
 public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
